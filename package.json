@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/app"
+    "start": "node 1-introduction_homework/src/app"
   },
   "author": "",
   "license": "ISC",
